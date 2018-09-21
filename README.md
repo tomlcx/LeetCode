@@ -11,3 +11,4 @@ LeetCode
 |20| [Valid Parentheses ](https://leetcode-cn.com/problems/valid-parentheses/description/) | [Java](./algorithms/ValidParentheses/ValidParentheses.java) | Easy |
 |21| [Merge Two Sorted Lists ](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) | [Java](./algorithms/MergeTwoSortedLists/MergeTwoSortedLists.java) | Easy |
 |26| [Remove Duplicates from Sorted Array ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./algorithms/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy |
+|27| [Remove Element ](https://leetcode-cn.com/problems/remove-element/description/) | [Java](./algorithms/RemoveElement/) | Easy |
