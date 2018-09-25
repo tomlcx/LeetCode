@@ -13,3 +13,4 @@ LeetCode
 |26| [Remove Duplicates from Sorted Array ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./algorithms/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) | Easy |
 |27| [Remove Element ](https://leetcode-cn.com/problems/remove-element/description/) | [Java](./algorithms/RemoveElement/) | Easy |
 |28| [Implement strStr() ](https://leetcode-cn.com/problems/implement-strstr/description/) | [Java](./algorithms/ImplementStrStr()/ImplementStrStr().java) | Easy |
+|28| [Search Insert Position ](https://leetcode-cn.com/problems/search-insert-position/description/) | [Java](./algorithms/SearchInsertPosition/SearchInsertPosition.java) | Easy |
