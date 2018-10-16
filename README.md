@@ -16,3 +16,4 @@ LeetCode
 |28| [Search Insert Position ](https://leetcode-cn.com/problems/search-insert-position/description/) | [Java](./algorithms/SearchInsertPosition/SearchInsertPosition.java) | Easy |
 |38| [Count and Say ](https://leetcode-cn.com/problems/count-and-say/description/) | [Java](./algorithms/CountAndSay/CountAndSay.java) | Easy |
 |53| [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) | [Java](./algorithms/MaximumSubarray/MaximumSubarray.java) | Easy |
+|58| [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/) | [Java](./algorithms/LengthOfLastWord/LengthOfLastWord.java) | Easy |
