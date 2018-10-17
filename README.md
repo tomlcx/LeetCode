@@ -17,3 +17,4 @@ LeetCode
 |38| [Count and Say ](https://leetcode-cn.com/problems/count-and-say/description/) | [Java](./algorithms/CountAndSay/CountAndSay.java) | Easy |
 |53| [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) | [Java](./algorithms/MaximumSubarray/MaximumSubarray.java) | Easy |
 |58| [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/) | [Java](./algorithms/LengthOfLastWord/LengthOfLastWord.java) | Easy |
+|66| [Plus One](https://leetcode-cn.com/problems/plus-one/description/) | [Java](./algorithms/PlusOne/PlusOne.java) | Easy |
