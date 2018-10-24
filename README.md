@@ -20,3 +20,4 @@ LeetCode
 |66| [Plus One](https://leetcode-cn.com/problems/plus-one/description/) | [Java](./algorithms/PlusOne/PlusOne.java) | Easy |
 |67| [Add Binary](https://leetcode-cn.com/problems/add-binary/description/) | [Java](./algorithms/AddBinary/AddBinary.java) | Easy |
 |69| [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) | [Java](./algorithms/Sqrt(x)/Sqrt(x).java) | Easy |
+|70| [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) | [Java](./algorithms/ClimbingStairs/ClimbingStairs.java) | Easy |
