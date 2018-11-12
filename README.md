@@ -22,3 +22,4 @@ LeetCode
 |69| [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) | [Java](./algorithms/Sqrt(x)/Sqrt(x).java) | Easy |
 |70| [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) | [Java](./algorithms/ClimbingStairs/ClimbingStairs.java) | Easy |
 |83| [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./algorithms/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) | Easy |
+|88| [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | [Java](./algorithms/MergeSortedArray/MergeSortedArray.java) | Easy |
