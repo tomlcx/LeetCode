@@ -24,3 +24,4 @@ LeetCode
 |83| [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | [Java](./algorithms/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) | Easy |
 |88| [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) | [Java](./algorithms/MergeSortedArray/MergeSortedArray.java) | Easy |
 |100| [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) | [Java](./algorithms/SameTree/SameTree.java) | Easy |
+|101| [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/) | [Java](./algorithms/SymmetricTree/SymmetricTree.java) | Easy |
